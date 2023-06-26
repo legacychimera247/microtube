@@ -336,7 +336,7 @@ Per ottenere una chiave vai su &lt;a href=&quot;https://console.cloud.google.com
     </message>
     <message>
         <source>Select category by swiping to the left or search for videos</source>
-        <translation>Scegli la categoria con uno swipe verso sinistra o cerca qualche video</translation>
+        <translation>Scegli la categoria con uno swipe verso destra o cerca qualche video</translation>
     </message>
 </context>
 <context>
@@ -354,7 +354,7 @@ Per ottenere una chiave vai su &lt;a href=&quot;https://console.cloud.google.com
     </message>
     <message>
         <source>Restricted mode (safe for kids)</source>
-        <translation>Modalità sicura (sicuro per i bambini)</translation>
+        <translation>Modalità limitata (sicuro per i bambini)</translation>
     </message>
     <message>
         <source>Automatic change to next video</source>
