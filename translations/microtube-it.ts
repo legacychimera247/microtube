@@ -277,7 +277,7 @@ Per ottenere una chiave vai su &lt;a href=&quot;https://console.cloud.google.com
     </message>
     <message>
         <source>Failed</source>
-        <translation>Ci sono problemi</translation>
+        <translation>Ho un problema</translation>
     </message>
     <message>
         <source>Not running</source>
@@ -285,27 +285,27 @@ Per ottenere una chiave vai su &lt;a href=&quot;https://console.cloud.google.com
     </message>
     <message>
         <source>Checking if js directory exists</source>
-        <translation>Controllando se la cartella js esiste</translation>
+        <translation>Sto controllando se la cartella js esiste</translation>
     </message>
     <message>
         <source>Checking if js directory is directory</source>
-        <translation>Controllando se la cartella js è una cartella</translation>
+        <translation>Sto controllando se la cartella js è una cartella</translation>
     </message>
     <message>
         <source>Checking if js directory is readable</source>
-        <translation>Controllando se la cartella js è leggibile</translation>
+        <translation>Sto controllando se la cartella js è leggibile</translation>
     </message>
     <message>
         <source>Checking if js directory is writable</source>
-        <translation>Controllando se la cartella js è scrivibile</translation>
+        <translation>Sto controllando se la cartella js è scrivibile</translation>
     </message>
     <message>
         <source>Checking if js directory is executable</source>
-        <translation>Controllando se la cartella js è eseguibile</translation>
+        <translation>Sto controllando se la cartella js è eseguibile</translation>
     </message>
     <message>
         <source>Checking if node is executable and correct version</source>
-        <translation>Controllando se node è corretto ed eseguibile</translation>
+        <translation>Sto controllando se node è corretto ed eseguibile</translation>
     </message>
     <message>
         <source>No problems found</source>
@@ -336,7 +336,7 @@ Per ottenere una chiave vai su &lt;a href=&quot;https://console.cloud.google.com
     </message>
     <message>
         <source>Select category by swiping to the left or search for videos</source>
-        <translation>Scegli la categoria con uno swipe verso sinistra o cerca qualche video</translation>
+        <translation>Scegli la categoria con uno swipe verso destra o cerca qualche video</translation>
     </message>
 </context>
 <context>
@@ -672,11 +672,11 @@ Per ottenere una chiave vai su &lt;a href=&quot;https://console.cloud.google.com
     </message>
     <message>
         <source>Endcards/Credits</source>
-        <translation>Epilogo/Créditi</translation>
+        <translation>Epilogo/Crediti</translation>
     </message>
     <message>
         <source>Interaction Reminder (Subscribe)</source>
-        <translation>Reminder interazione (Iscriviti)</translation>
+        <translation>Notifica interazione (Iscriviti)</translation>
     </message>
     <message>
         <source>Unpaid/Self Promotion</source>
@@ -745,7 +745,7 @@ Per ottenere una chiave vai su &lt;a href=&quot;https://console.cloud.google.com
     </message>
     <message>
         <source>Changelog</source>
-        <translation>Cos&apos;è cambiato</translation>
+        <translation>Cos'è cambiato</translation>
     </message>
     <message>
         <source>Donation</source>
